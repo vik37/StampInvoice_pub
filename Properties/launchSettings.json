@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "StampInvoice": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7130",
+      "launchBrowser": false
+    }
+  }
+}
